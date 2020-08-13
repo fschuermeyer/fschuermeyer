@@ -1,6 +1,12 @@
 ### Wellcome
 
-[![Twitter Follower](https://img.shields.io/twitter/follow/F_Schuermeyer?label=Twitter%20Follower&style=for-the-badge)](https://twitter.com/F_Schuermeyer)
+[![Twitter Follower](https://img.shields.io/twitter/follow/F_Schuermeyer?label=Twitter%20Follower&style=flat-square)](https://twitter.com/F_Schuermeyer)
+
+[![Twitter Follower](https://img.shields.io/github/followers/fschuermeyer?label=Github%20Followers&style=flat-square)](https://github.com/fschuermeyer/)
+
+
+
+
 
 <!--
 **fschuermeyer/fschuermeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
