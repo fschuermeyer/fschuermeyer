@@ -1,4 +1,6 @@
-### Hi there 👋
+### Wellcome
+
+![Twitter Follower](https://img.shields.io/twitter/follow/F_Schuermeyer?label=Twitter%20Follower&style=for-the-badge)
 
 <!--
 **fschuermeyer/fschuermeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
