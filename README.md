@@ -1,8 +1,6 @@
 ### Wellcome
 
-[![Twitter Follower](https://img.shields.io/twitter/follow/F_Schuermeyer?label=Twitter%20Follower&style=flat-square)](https://twitter.com/F_Schuermeyer)
-
-[![Twitter Follower](https://img.shields.io/github/followers/fschuermeyer?label=Github%20Followers&style=flat-square)](https://github.com/fschuermeyer/)
+[![Twitter Follower](https://img.shields.io/twitter/follow/F_Schuermeyer?label=Twitter%20Follower&style=for-the-badge)](https://twitter.com/F_Schuermeyer) [![Github](https://img.shields.io/github/followers/fschuermeyer?label=Github%20Followers&style=for-the-badge)](https://github.com/fschuermeyer/)
 
 
 
