@@ -1,7 +1,5 @@
 # Willkommen! Welcome!
 
----
-
 Hello world, I am Felix Schürmeyer from Neuss (Germany) and my passions are coding and designing.
 
 I started creating websites at the age of 8, my first one was made with "Microsoft FrontPage 2003". In further projects I used WordPress, which I still fall back to sometimes, because it's a very good solution for building complex webpages.
