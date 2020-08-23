@@ -8,6 +8,6 @@
 
 ## My Websites
 
-[HelloCoding.de](http://hellocoding.de/)
-[Foto Schürmeyer](http://foto-schuermeyer.de/) 
-[Felix Schürmeyer](https://felixschuermeyer.de/)
+- [HelloCoding.de](http://hellocoding.de/)
+- [Foto Schürmeyer](http://foto-schuermeyer.de/) 
+- [Felix Schürmeyer](https://felixschuermeyer.de/)
