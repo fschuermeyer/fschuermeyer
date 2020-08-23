@@ -6,7 +6,9 @@ I started creating websites at the age of 8, my first one was made with "Microso
 
 For example my website about photographing was written using WordPress, as I needed to outsource my projects in additional markups with my own Custom Post Type "Portfolio". Unfortunately WordPress often includes too many plugins which causes lots of security issues. Instead of WP I've fallen in love with October CMS because it can be customized much more and additonally provides a better backend.
 
-A bit earlier I discovered my passion for capturing the environment in pictures, which was the reason for my increasing interest in designs. Later on, I proudly passed my vocational design diploma with a grade of 1.3. Last year, 2017, I started my apperenticeship as a designer for both digital and print media (focus on webdesign). 2020 - It's Ready the Apperenticeship!
+A bit earlier I discovered my passion for capturing the environment in pictures, which was the reason for my increasing interest in designs. Later on, I proudly passed my vocational design diploma with a grade of 1.3. 
+
+2017, I started my apprenticeship as a designer for both digital and print media (focus on webdesign). 2020 - It's Ready the Apprenticeship!
 
 That's where I get daily tasks about HTML, CSS, JS and PHP, which means much fun in the present, and a good practice for future.
 
