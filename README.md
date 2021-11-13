@@ -1,4 +1,4 @@
-# Willkommen! Welcome!
+# Willkommen! Welcome! 👋
 
 Hello world, I am Felix Schürmeyer from Neuss (Germany) and my passions are coding and designing.
 
@@ -26,7 +26,7 @@ I love my world of code!
 
 
 
-## My Websites
+## Websites 🚀
 
 - [HelloCoding.de](http://hellocoding.de/)
 - [Foto Schürmeyer](http://foto-schuermeyer.de/) 
