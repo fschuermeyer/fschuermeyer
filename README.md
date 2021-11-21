@@ -1,17 +1,14 @@
 # Willkommen! Welcome! 👋
 
-Hello world, I am Felix Schürmeyer from Neuss (Germany) and my passions are coding and designing.
+Hello, I am Felix Schürmeyer and currently 23 years old. I started early to find my way around the Internet and to work with it, in short: to use it for my own purposes. At the age of six I already worked on a computer for the first time, but probably rather played. At the age of eight I put my first website online. Together with a free webspace and Microsoft FrontPage I created my first page. So I was able to learn the basics of creating a website at an early age and knew what I had to do.
 
-I started creating websites at the age of 8, my first one was made with "Microsoft FrontPage 2003". In further projects I used WordPress, which I still fall back to sometimes, because it's a very good solution for building complex webpages.
+Also writing HTML was a lot of fun for me in the beginning. Along the way, rather earlier than programming, photography came along. At first with disposable cameras, before I got my first digital camera when I started school.
 
-For example my website about photographing was written using WordPress, as I needed to outsource my projects in additional markups with my own Custom Post Type "Portfolio". Unfortunately WordPress often includes too many plugins which causes lots of security issues. Instead of WP I've fallen in love with October CMS because it can be customized much more and additonally provides a better backend.
+I started photography and working on the computer at a very early age and have kept it up until today. Because photography was much more important to me for a while than working with computers, I decided to take a specialized baccalaureate in design, which I haven't regretted to this day. It gave me some orientation. But because it wasn't enough for me to just design and take pictures, I also wanted to do more programming.
 
-A bit earlier I discovered my passion for capturing the environment in pictures, which was the reason for my increasing interest in designs. Later on, I proudly passed my vocational design diploma with a grade of 1.3. 
+So I decided to train as a digital media designer, with the company's strong focus on websites. Had I arrived where I wanted to go: Programming and designing. I successfully completed the training in January 2020.
 
-2017, I started my apprenticeship as a designer for both digital and print media (focus on webdesign). 2020 - It's Ready the Apprenticeship!
-
-That's where I get daily tasks about HTML, CSS, JS and PHP, which means much fun in the present, and a good practice for future.
-
+Translated with www.DeepL.com/Translator (free version)
 I love my world of code!
 
 ---
