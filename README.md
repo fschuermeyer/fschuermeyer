@@ -8,7 +8,6 @@ I started photography and working on the computer at a very early age and have k
 
 So I decided to train as a digital media designer, with the company's strong focus on websites. Had I arrived where I wanted to go: Programming and designing. I successfully completed the training in January 2020.
 
-Translated with www.DeepL.com/Translator (free version)
 I love my world of code!
 
 ---
