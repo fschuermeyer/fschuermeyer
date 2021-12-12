@@ -24,6 +24,5 @@ I love my world of code!
 
 ## Websites 🚀
 
-- [HelloCoding.de](http://hellocoding.de/)
-- [Foto Schürmeyer](http://foto-schuermeyer.de/) 
+- [HelloCoding.de](https://hellocoding.de/)
 - [Felix Schürmeyer](https://felixschuermeyer.de/)
