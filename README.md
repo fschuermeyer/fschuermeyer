@@ -1,6 +1,6 @@
 # Willkommen! Welcome! 👋
 
-Hello, I am Felix Schürmeyer and currently 23 years old. I started early to find my way around the Internet and to work with it, in short: to use it for my own purposes. At the age of six I already worked on a computer for the first time, but probably rather played. At the age of eight I put my first website online. Together with a free webspace and Microsoft FrontPage I created my first page. So I was able to learn the basics of creating a website at an early age and knew what I had to do.
+Hello, I am Felix Schürmeyer and currently 24 years old. I started early to find my way around the Internet and to work with it, in short: to use it for my own purposes. At the age of six I already worked on a computer for the first time, but probably rather played. At the age of eight I put my first website online. Together with a free webspace and Microsoft FrontPage I created my first page. So I was able to learn the basics of creating a website at an early age and knew what I had to do.
 
 Also writing HTML was a lot of fun for me in the beginning. Along the way, rather earlier than programming, photography came along. At first with disposable cameras, before I got my first digital camera when I started school.
 
