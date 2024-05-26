@@ -1,0 +1,24 @@
+name: update-readme
+
+on:
+  schedule:
+    - cron: '0 0 */7 * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - run: pip install -r requirements.txt
+      - run: python .github/workflows/update.py
+      - name: Commit changes
+        run: |
+          git config --global user.name 'Felix Schürmeyer'
+          git config --global user.email '25571323+fschuermeyer@users.noreply.github.com'
+
+          git add README.md
+          git commit -m "Update Article List"
+          git push
