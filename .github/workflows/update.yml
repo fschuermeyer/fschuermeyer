@@ -15,11 +15,16 @@ jobs:
           python-version: '3.x'
       - run: pip install -r requirements.txt
       - run: python .github/workflows/update.py
-      - name: Commit changes
+      - name: Commit changes (mit Abbruch bei "nothing to commit")
         run: |
           git config --global user.name 'Felix Schürmeyer'
           git config --global user.email '25571323+fschuermeyer@users.noreply.github.com'
 
           git add README.md
-          git commit -m "Update Article List on $(date)"
+
+          if ! git commit -m "Update Article List on $(date +%Y-%m-%d)"; then
+            echo "Keine Änderungen gefunden. Abbruch!"
+            exit 0
+          fi
+
           git push
