@@ -9,3 +9,12 @@
 
 - [HelloCoding.de](https://hellocoding.de/)
 - [Felix Schürmeyer](https://felixschuermeyer.de/)
+
+## Letzte Artikel auf [HelloCoding.de](https://hellocoding.de/) 🧠
+
+- [Wie funktioniert Test Driven Development eigentlich?](https://hellocoding.de/blog/coding-language/allgemein/test-driven-development)
+- [Wie Unit Testing in Python funktioniert?](https://hellocoding.de/blog/coding-language/python/unit-tests)
+- [ChatGPT, Gemini & Co. von deiner Webseite ausschließen!](https://hellocoding.de/blog/seo/ki-ausschliessen-von-webseite)
+- [Wie TypeGuards dein JavaScript & TypeScript Code verbessern können!](https://hellocoding.de/blog/coding-language/javascript/typeguards)
+- [GitHub CoPilot, ein Partner für alle Fälle? Mit KI Programmieren.](https://hellocoding.de/blog/coding-language/allgemein/github-copilot)
+- [Wie du die GeoLocation API verwenden kannst in JavaScript.](https://hellocoding.de/blog/coding-language/javascript/geolocation-api)
