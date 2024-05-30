@@ -14,7 +14,7 @@ jobs:
         with:
           python-version: '3.x'
       - run: pip install -r requirements.txt
-      - run: python .github/workflows/update.py
+      - run: python .scripts/update.py
       - name: Commit changes (mit Abbruch bei "nothing to commit")
         run: |
           git config --global user.name 'Felix Schürmeyer'
