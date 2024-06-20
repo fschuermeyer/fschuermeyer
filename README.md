@@ -6,9 +6,9 @@
 
 ## Letzte Artikel auf [HelloCoding.de](https://hellocoding.de/) 🧠
 
+- [GitHub Actions: Beherrsche die Welt der Piplines!](https://hellocoding.de/blog/tools/git/github-actions-verwenden)
 - [Zurück in die Zukunft: Native Verschachtelung in CSS](https://hellocoding.de/blog/coding-language/css/verschachtelung-in-css)
 - [Wie funktioniert Test Driven Development eigentlich?](https://hellocoding.de/blog/coding-language/allgemein/test-driven-development)
-- [Wie Unit Testing in Python funktioniert?](https://hellocoding.de/blog/coding-language/python/unit-tests)
+- [Wie Unit-Testing in Python funktioniert?](https://hellocoding.de/blog/coding-language/python/unit-tests)
 - [ChatGPT, Gemini & Apple Intelligence von Webseiten aussperren!](https://hellocoding.de/blog/seo/ki-ausschliessen-von-webseite)
 - [Wie TypeGuards dein JavaScript & TypeScript Code verbessern können!](https://hellocoding.de/blog/coding-language/javascript/typeguards)
-- [GitHub CoPilot, ein Partner für alle Fälle? Mit KI Programmieren.](https://hellocoding.de/blog/coding-language/allgemein/github-copilot)
