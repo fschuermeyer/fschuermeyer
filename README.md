@@ -6,6 +6,7 @@
 
 ## Letzte Artikel auf [HelloCoding.de](https://hellocoding.de/) 🧠
 
+- [WebAssembly: Die nächste Evolutionsstufe für Webanwendungen?](https://hellocoding.de/blog/coding-language/webassembly-im-browser)
 - [Popover API: Smarte Popovers für bessere Nutzererfahrung](https://hellocoding.de/blog/coding-language/html/popover-api-attribute)
 - [Von Commits bis Push: Git Hooks für optimierte Workflows](https://hellocoding.de/blog/tools/git/git-hooks-workflow)
 - [Neovim als meine Entwicklungsumgebung](https://hellocoding.de/blog/tools/development/neovim-als-entwicklungsumgebung)
@@ -13,4 +14,3 @@
 - [Zurück in die Zukunft: Native Verschachtelung in CSS](https://hellocoding.de/blog/coding-language/css/verschachtelung-in-css)
 - [Wie funktioniert Test Driven Development eigentlich?](https://hellocoding.de/blog/coding-language/allgemein/test-driven-development)
 - [Wie Unit-Testing in Python funktioniert?](https://hellocoding.de/blog/coding-language/python/unit-tests)
-- [ChatGPT, Gemini & Apple Intelligence von Webseiten aussperren!](https://hellocoding.de/blog/seo/ki-ausschliessen-von-webseite)
