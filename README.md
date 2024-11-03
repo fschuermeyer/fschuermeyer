@@ -5,6 +5,7 @@
 
 ## Letzte Artikel auf [HelloCoding.de](https://hellocoding.de/) 🧠
 
+- [Effizientes Styling: CSS Layers für mehr Ordnung und Gewicht](https://hellocoding.de/blog/coding-language/css/effizientes-styling-mit-cascade-layer)
 - [WebAssembly: Die nächste Evolutionsstufe für Webanwendungen?](https://hellocoding.de/blog/coding-language/webassembly-im-browser)
 - [Popover API: Smarte Popovers für bessere Nutzererfahrung](https://hellocoding.de/blog/coding-language/html/popover-api-attribute)
 - [Von Commits bis Push: Git Hooks für optimierte Workflows](https://hellocoding.de/blog/tools/git/git-hooks-workflow)
@@ -12,4 +13,3 @@
 - [GitHub Actions: Beherrsche die Welt der Piplines!](https://hellocoding.de/blog/tools/git/github-actions-verwenden)
 - [Zurück in die Zukunft: Native Verschachtelung in CSS](https://hellocoding.de/blog/coding-language/css/verschachtelung-in-css)
 - [Wie funktioniert Test Driven Development eigentlich?](https://hellocoding.de/blog/coding-language/allgemein/test-driven-development)
-- [Wie Unit-Testing in Python funktioniert?](https://hellocoding.de/blog/coding-language/python/unit-tests)
